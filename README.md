@@ -1,2 +1,2 @@
 # newGitTest
-# This is how to do it.
+This is how to do it.
